@@ -1,0 +1,54 @@
+-- SQL script to insert registration codes into the database.
+-- Copy and run this entire script in your pgAdmin Query Tool.
+
+-- Player Codes (all set to 'rookie' by default)
+INSERT INTO registration_codes (code, player_role) VALUES ('EDG-141', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('KQB-508', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('DUX-496', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('XJG-566', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('IMD-537', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('SVC-444', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('OXO-515', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('WDR-780', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('XDR-335', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('RXA-323', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('OBO-835', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('BXG-970', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('NUO-232', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('MFN-448', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('ECK-155', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('CIM-893', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('XAW-590', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('PEK-133', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('UUE-429', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('AXU-373', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('SCZ-946', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('ISS-769', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('FHZ-459', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('RLS-941', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('GHT-485', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('UZH-031', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('PFH-735', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('YBM-042', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('HVO-883', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('QGG-609', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('QFW-827', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('AGI-412', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('GPB-552', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('HNG-144', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('IKJ-930', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('ASR-387', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('ZLG-449', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('LMQ-228', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('UQT-213', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('OWN-073', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('DOA-375', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('BTB-353', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('OBQ-165', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('VGI-512', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('QRG-996', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('PPI-390', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('GYT-914', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('LEW-962', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('MQV-227', 'rookie');
+INSERT INTO registration_codes (code, player_role) VALUES ('LRH-712', 'rookie');
